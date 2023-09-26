@@ -1,0 +1,499 @@
+.container {
+    width: 1700;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin: auto;
+    display: flex;
+    padding-top: 20px;
+}
+
+.logo-p {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    /* padding-top: -70px; */
+}
+
+.logo-a2 {
+    display: flex;
+    padding-top: -20px;
+    text-decoration: none;
+}
+
+.logo-img2 {
+    padding-top: 17px;
+}
+
+.logo-p {
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.logo-a3 {
+    color: #FFF;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: 2px solid #1D9BF0;
+    border-radius: 27px;
+    background: #1D9BF0;
+    padding: 10px 70px;
+    text-decoration: none;
+    margin-left: -30px;
+}
+
+.odam {
+    padding-top: 260px;
+    display: flex;
+    margin-left: -5px;
+}
+
+.odam-img {
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+.odam2 {
+    padding-left: 5px;
+    display: flex;
+}
+
+.odam-img7 {
+    padding-top: 30px;
+}
+
+.odam-p1 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: -20px;
+}
+
+.odam-p2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.glava {
+    display: flex;
+    margin-left: 10px;
+}
+
+.glava-div {
+    margin-top: -30px;
+    margin-left: 20px;
+}
+
+.glava-h2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.glava-p {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.glava-img-2 {
+    padding-top: 75px;
+    margin-left: -145px;
+}
+
+.glava-div-2 {
+    padding-top: 300px;
+    margin-left: -850px;
+}
+
+.glava-img2 {
+    border-radius: 100px;
+    border: 4px solid white;
+}
+
+.glava-a2 {
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 5px 10px;
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 550px;
+}
+
+.avd {
+    padding-top: 450px;
+    margin-left: -850px;
+}
+
+.avd-h2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.avd-p {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.avd-p-2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.avd-p2 {
+    color: #1DA1F2;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.avd-div {
+    display: flex;
+    margin-left: -10px;
+}
+
+.avd-a {
+    display: flex;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.avd-img {
+    padding-top: 15px;
+}
+
+.avd-p-3 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 2px;
+}
+
+.avd-p3 {
+    color: #1DA1F2;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 2px;
+}
+
+.avd-div-2 {
+    display: flex;
+}
+
+.avd-p-4 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 15px;
+}
+
+.nav {
+    display: flex;
+    margin-left: -200px;
+}
+
+.nav-p {
+    margin-left: 200px;
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nav-img {
+    margin-left: -3px;
+    margin-bottom: 10px;
+}
+
+.nav-hr {
+    margin-top: -14px;
+    margin-left: -32px;
+    width: 909px;
+}
+
+/* Avd */
+
+.item1 {
+    padding-top: 550px;
+}
+
+.item2 {
+    display: flex;
+}
+
+.itempi {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 747px;
+}
+
+.itempn {
+    margin-top: -1px;
+    color: #536471;
+    font-family: "Segoe UI";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 5px;
+}
+
+.item {
+    padding-top: 250px;
+    margin-left: -880px;
+}
+
+.item-img {
+    padding-top: 10px;
+}
+
+.item-2 {
+    display: flex;
+}
+
+.item-div {
+    display: flex;
+}
+
+.item-h2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.item-p {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 10px;
+    padding-top: 3px;
+}
+
+.item-img2 {
+    margin-left: 490px;
+    padding-top: 20px;
+}
+
+.item-p2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -20px;
+    margin-left: 70px;
+}
+
+.item-div2 {
+    margin-left: -30px;
+    padding-top: 22px;
+}
+
+.item-img3 {
+    margin-left: 100px;
+}
+
+.pic {
+    padding-top: 4px;
+    margin-left: -880px;
+}
+
+.pic-2 {
+    display: flex;
+}
+
+.pic-div {
+    display: flex;
+}
+
+.pic-h2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.pic-p {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.6;
+    margin-left: 10px;
+}
+
+.pic-img2 {
+    margin-left: 470px;
+    padding-top: 20px;
+}
+
+.pic-p2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -20px;
+    margin-left: 70px;
+    width: 747px;
+    padding-top: 20px;
+}
+
+.pic-div2 {
+    margin-left: -30px;
+    padding-top: 22px;
+}
+
+.pic-img3 {
+    margin-left: 100px;
+}
+
+.dell {
+    padding-top: 6px;
+    margin-left: -880px;
+}
+
+.dell-2 {
+    display: flex;
+}
+
+.dell-div {
+    display: flex;
+}
+
+.dell-h2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.dell-p {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 10px;
+    padding-top: 3px;
+}
+
+.dell-img2 {
+    margin-left: 470px;
+    padding-top: 20px;
+}
+
+.dell-p2 {
+    color: #000;
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -20px;
+    margin-left: 70px;
+    width: 747px;
+}
+
+.dell-div2 {
+    margin-left: -30px;
+    padding-top: 22px;
+}
+
+.dell-img3 {
+    margin-left: 100px;
+}
+
+.dell-img4 {
+    margin-left: 0px;
+}
+
+.well .well2 {
+    margin-left: 100px;
+    padding-top: -200px;
+    /* display: flex; */
+}
+
+.glava-hr1 {
+    margin-left: -247px;
+    height: px;
+}
+
+.hr2 {
+    margin-left: -30px;
+    width: 905px;
+}
+
